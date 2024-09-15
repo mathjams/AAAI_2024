@@ -1,0 +1,4 @@
+Run on Google Colab
+Each file has a different method of prediction
+First, run the code which will process your data into the format needed for an LSTM
+Then run the sequence-to-sequence model(s) using the eye and hand fixation sequences as the input/output
